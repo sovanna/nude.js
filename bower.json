@@ -1,6 +1,6 @@
 {
   "name": "NudeJS",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/sovanna/nude.js",
   "description": "Nudity detection with JavaScript and HTMLCanvas from Patrick Wied (https://github.com/pa7/nude.js)",
   "main": "nude.js",
